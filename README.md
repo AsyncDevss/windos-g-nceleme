@@ -36,7 +36,7 @@ Scripti bilgisayarınızda çalıştırmak oldukça basittir:
 
 Bu proje **Enes** tarafından geliştirilmiştir. 
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/AsyncDevss)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)]([https://github.com/AsyncDevss]
 
 ---
 
