@@ -1,0 +1,1 @@
+# windos-g-nceleme
